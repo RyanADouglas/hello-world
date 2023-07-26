@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="mobile"><b>test Enter Mobile Number</b></label>
+    <label for="mobile"><b>Enter Mobile Number</b></label>
     <input type="text" placeholder="Enter mobile" name="mobile" id="mobile" required>
     <br>
 
@@ -32,4 +32,6 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+
+  <h1> Completed Project </h1>
 </form>
